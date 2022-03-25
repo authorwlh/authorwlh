@@ -1,5 +1,5 @@
 <h2> 💥🔥 Hey there! I'm authorwlh.</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="400"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="530" height="480"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
