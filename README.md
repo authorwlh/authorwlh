@@ -29,6 +29,55 @@
 - 🛢 &nbsp; OLAP FOR BDP PLATFORM OLAP查询引擎
 - 🔧 &nbsp; OPTIMIZE FOR BDP PLATFORM 性能优化引擎
 - 🖥 &nbsp; DATABASES FOR BDP PLATFORM 分布式存储引擎
+
+<div align="center">
+  ## 🛠  Tech Stack
+  
+  
+ ### Language 
+  
+  <p>
+
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
+   <br />
+</p>
+  
+  
+     
+     
+ ### DataBase
+  
+
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://upload.wikimedia.org/wikipedia/en/1/1e/Apache_HBase_Logo.svg"></code>
+<code><img width="15%" src="https://github.com/detain/svg-logos/blob/master/svg/atlas-6.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+      <br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="15%" src="https://flink.apache.org/img/flink-header-logo.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+<br />
+</p>
+
+
+### DevOps Tool 
+  
+  
+
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="15%" src="https://github.com/gilbarbara/logos/blob/master/logos/macOS.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="15%" src="https://repository-images.githubusercontent.com/2489216/24a1f980-8651-11eb-9707-7b75bab40c9e"></code>
+<code><img width="15%" src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg"></code>
+<br />
+</div>
  
 <h3> 🤝🏻 Connect with Me </h3> 
 <p align="center">
