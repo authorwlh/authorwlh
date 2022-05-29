@@ -1,36 +1,52 @@
+<div align="center">
 <h2> 💥🔥 Hey there! I'm authorwlh.</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="530" height="420"/>
-
+  </div>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently developing BigData Platform.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Full Stack developer and BigData developer.
-- 🌱 &nbsp; Enthusiast in BigData and Artificial Intelligence .
-- ✍️ &nbsp; My original intention is to create a product that is useful to society.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+  1、I’m currently developing BigData Platform.
+
+  2、Exploring new technologies and developing software solutions and quick hacks.
+
+  3、Studying Computer Science, computer programming and Mathematics.
+
+  4、Full Stack developer and BigData developer.
+
+  5、Enthusiast in BigData and Artificial Intelligence .
+
+  6、My original intention is to create a product that is useful to society.
+
+  7、I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+<div align="center">
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=authorwlh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="1400" alt="authorwlh's Github Stats">
 
-<h3>🛠 Tech Stack</h3>
+  </div>
+<h3>🛠 开源大数据平台OverView</h3>
+  
+  1、BUSINESS FOR BDP PLATFORM 商业项目
+  
+  2、BUSINESS FOR BDP PLATFORM 计算引擎
+  
+  3、DEVOPS FOR BDP PLATFORM 运维引擎
+  
+  4、DATA GOVERN FOR BDP PLATFORM 数据治理引擎
+  
+  5、DATA Integrate FOR BDP PLATFORM 数据集成引擎
+  
+  6、AI FOR BDP PLATFORM 人工智能引擎
+  
+  7、DATA ODS FOR BDP PLATFORM 数据采集引擎
 
-- 💻 &nbsp; Python | Dart | Java | Scala | Go
-- 🌐 &nbsp; React | Docker | Redis | Elasticsearch | Spark | Spider 
-- 🛢 &nbsp; MySQL | Mongodb | Vue | Hive | Storm | ELK | K8S | Flink
-- 💻 &nbsp; BUSINESS FOR BDP PLATFORM 商业项目
-- 🌐 &nbsp; BUSINESS FOR BDP PLATFORM 计算引擎
-- 🛢 &nbsp; DEVOPS FOR BDP PLATFORM 运维引擎
-- 🔧 &nbsp; DATA GOVERN FOR BDP PLATFORM 数据治理引擎
-- 🖥 &nbsp; DATA Integrate FOR BDP PLATFORM 数据集成引擎
-- 💻 &nbsp; AI FOR BDP PLATFORM 人工智能引擎
-- 🌐 &nbsp; DATA ODS FOR BDP PLATFORM 数据采集引擎
-- 🛢 &nbsp; OLAP FOR BDP PLATFORM OLAP查询引擎
-- 🔧 &nbsp; OPTIMIZE FOR BDP PLATFORM 性能优化引擎
-- 🖥 &nbsp; DATABASES FOR BDP PLATFORM 分布式存储引擎
+  8、OLAP FOR BDP PLATFORM OLAP查询引擎
 
+  9、OPTIMIZE FOR BDP PLATFORM 性能优化引擎
+
+  10、DATABASES FOR BDP PLATFORM 分布式存储引擎
+  
 <div align="center">
+  
   ## 🛠  Tech Stack
   
   
@@ -77,7 +93,7 @@
 <code><img width="15%" src="https://repository-images.githubusercontent.com/2489216/24a1f980-8651-11eb-9707-7b75bab40c9e"></code>
 <code><img width="15%" src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg"></code>
 <br />
-</div>
+
  
 <h3> 🤝🏻 Connect with Me </h3> 
 <p align="center">
@@ -86,3 +102,4 @@
 </p>
 ⭐️ From [authorwlh](https://github.com/authorwlh)
 
+</div>
